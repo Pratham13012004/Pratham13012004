@@ -13,12 +13,7 @@
   <strong>Languages:</strong> Python • HTML • CSS • JavaScript • Java
 </p>
 
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#skills">Skills</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#contact">Contact</a>
-</p>
+
 
 ---
 
@@ -54,34 +49,34 @@ I build beautiful, responsive web apps and design meaningful UI experiences. I e
 
 ---
 
-## 🔭 Featured Projects
 
-### Calories Burn Predictor
-- Tech: Python, TensorFlow, Flask, HTML/CSS
-- A web app that estimates calories burned using user-specific inputs and a trained model. Deployed via Flask.
-
-### Tata Motors Webpage Clone
-- Tech: HTML, CSS, JavaScript
-- Fully responsive clone with mobile-first design and cross-browser compatibility.
-
-*(More projects in the repo — explore the project folders.)*
-
----
-
-## ✨ How this README works
-- The header uses an **animated SVG banner** (`assets/banner.svg`) with animated gradient and floating shapes.
-- Badges use [shields.io] badges (fast, lightweight).
-- Keep the banner path as `assets/banner.svg` or change the image URL to your hosted file.
 
 ---
 
 ## 📫 Contact
-- Email: pratham13012004@gmail.com  
-- GitHub: [Pratham13012004](https://github.com/Pratham13012004)  
-- LinkedIn: https://linkedin.com/in/pratham-kumar
+
+<div align="center">
+
+  <!-- Email -->
+  <a href="mailto:pratham13012004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" 
+         alt="Email Badge"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Pratham13012004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" 
+         alt="GitHub Badge"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/pratham-kumar-79954b292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="LinkedIn Badge"/>
+  </a>
+
+</div>
+
 
 ---
 
-<p align="center">
-  Made with ❤️ — <em>Drop me a message if you want to collaborate!</em>
-</p>
