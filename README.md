@@ -10,6 +10,7 @@
 <p align="center">
   Aspiring Software Developer • Frontend & UI/UX Designer • ML tinkerer  
   <br/>
+  <img src="assests/typing.svg" width="100%"/>
   <strong>Languages:</strong> Python • HTML • CSS • JavaScript • Java
 </p>
 
