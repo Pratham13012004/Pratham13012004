@@ -2,7 +2,7 @@
 
 <!-- Animated banner (SVG file stored at assets/banner.svg) -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Pratham's animated banner" width="100%"/>
+  <img src="assests//banner.svg" alt="Pratham's animated banner" width="100%"/>
 </p>
 
 <h1 align="center">Hey 👋, I'm Pratham Kumar</h1>
