@@ -1,89 +1,87 @@
+<!-- README.md for GitHub profile -->
 
-<div align="center">
+<!-- Animated banner (SVG file stored at assets/banner.svg) -->
+<p align="center">
+  <img src="assets/banner.svg" alt="Pratham's animated banner" width="100%"/>
+</p>
 
-# Hi there! I'm **Pratham Kumar** 👋
-
-<img src="./header.svg" alt="Header" width="720"/>
-
-### Aspiring Software Developer and Designer | KIIT University 🎓
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Q8FSbWcK6dJ7x4tD9p/giphy.gif" width="320" height="160" alt="Hello World GIF"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratham13012004&color=7500FF&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
-## 🚀 About Me
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7500FF&background=00000000&center=true&vCenter=true&width=640&lines=A+Frontend+Developer+and+Designer;Experienced+in+Web%2C+ML%2C+and+UI%2FUX;Seeking+a+Dynamic+Organization" alt="Typing SVG Animation" />
-</div>
+<h1 align="center">Hey 👋, I'm Pratham Kumar</h1>
 
 <p align="center">
-  <img src="./assets/star-20750.gif" width="120" alt="Star" style="vertical-align: middle;"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.dribbble.com/userupload/31791220/file/original-2bd8c5c49b32c6a4e6dc06da88a63707.gif" width="220" alt="Dribbble 1"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.dribbble.com/userupload/31531132/file/original-9e028f4658fcf3ed9f74cb0c8796d824.gif" width="220" alt="Dribbble 2"/>
+  Aspiring Software Developer • Frontend & UI/UX Designer • ML tinkerer  
+  <br/>
+  <strong>Languages:</strong> Python • HTML • CSS • JavaScript • Java
+</p>
+
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-## 🔧 Skills & Tools
+## 🔎 About
+I build beautiful, responsive web apps and design meaningful UI experiences. I enjoy combining **clean code** with **creative visuals** — from animated SVGs to polished React interfaces. I also train and deploy small ML models and integrate them into web apps.
 
-| Category | Skills |
-| :---: | :--- |
-| **Programming** | Python, HTML5, CSS3, JavaScript |
-| **Frameworks** | React.js, Flask, TensorFlow, Tailwind CSS, Bootstrap |
-| **Design** | Photoshop, Illustrator, Blender (3D Modeling & Animation) |
-| **Tools** | Jupyter Notebook, VS Code, Google Colab, **GitHub**, Excel |
-| **Core Skills** | Responsive Web Design, UI/UX Prototyping, Machine Learning, Graphic Design, Client Communication |
+(Resume available in this repo.) :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 🔥 GitHub Stats & Activity
+## ⚡ Quick stats
+- 🔭 Currently building: interactive frontends and ML-integrated web apps  
+- 🌱 Learning: advanced React patterns, animation systems, and production ML pipelines  
+- 🎨 Design: branding, packaging, 3D modeling & animations (Blender)  
+- 🏆 Awards: First Prize — North Zone Art Competition
+
+---
+
+## 🛠️ Skills
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham13012004&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Pratham's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham13012004&layout=compact&theme=dark" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham13012004&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+<!-- Skill bubbles (animated using SVG filter & CSS inlined inside assets/banner.svg is used for banner; here we use emoji + inline badges to be GitHub-friendly) -->
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-!%20%20-orange?logo=html5&logoColor=white"/>
+<img alt="CSS"  src="https://img.shields.io/badge/CSS3-!%20%20-blue?logo=css3&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/React-!%20%20-61DAFB?logo=react&logoColor=white"/>
+<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-!%20%20-06B6D4?logo=tailwindcss&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-!%20%20-3776AB?logo=python&logoColor=white"/>
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-!%20%20-FF6F00?logo=tensorflow&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/Flask-!%20%20-000000?logo=flask&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-!%20%20-F24E1E?logo=figma&logoColor=white"/>
 </div>
 
 ---
 
-## 🎨 Projects & Highlights
+## 🔭 Featured Projects
 
-- **Calories Burn Predictor** — Real-time web app with TensorFlow + Flask. Deployed ML model and integrated into a sleek UI.
-- **Tata Motors Webpage Clone** — Responsive clone built with HTML/CSS/JS ensuring cross-browser compatibility.
-- **Branding & Design** — 130+ clients for posters, logos, and social media design; internship at Cannibals Media and SYNTALIX.
+### Calories Burn Predictor
+- Tech: Python, TensorFlow, Flask, HTML/CSS
+- A web app that estimates calories burned using user-specific inputs and a trained model. Deployed via Flask.
 
----
+### Tata Motors Webpage Clone
+- Tech: HTML, CSS, JavaScript
+- Fully responsive clone with mobile-first design and cross-browser compatibility.
 
-## 🏆 Achievements
-
-- First Prize — **North Zone Art Competition** (Presented by Dr. A.P.J. Abdul Kalam).
-- Event Organizer — Managed branding for **KIIT Fest** (2023 & 2024).
-- Certifications from **AICTE, Tata Motors, and Let'sUpgrade** (React Bootcamp).
+*(More projects in the repo — explore the project folders.)*
 
 ---
 
-<details>
-<summary><strong>✨ Interactive: Quick Links & Contact</strong></summary>
-
-- 🔗 LinkedIn: https://linkedin.com/pratham-kumar  
-- ✉️ Email: pratham13012004@gmail.com
-
-</details>
+## ✨ How this README works
+- The header uses an **animated SVG banner** (`assets/banner.svg`) with animated gradient and floating shapes.
+- Badges use [shields.io] badges (fast, lightweight).
+- Keep the banner path as `assets/banner.svg` or change the image URL to your hosted file.
 
 ---
 
-> _Let’s build something great together!_ 🚀
+## 📫 Contact
+- Email: pratham13012004@gmail.com  
+- GitHub: [Pratham13012004](https://github.com/Pratham13012004)  
+- LinkedIn: https://linkedin.com/in/pratham-kumar
 
+---
+
+<p align="center">
+  Made with ❤️ — <em>Drop me a message if you want to collaborate!</em>
+</p>
